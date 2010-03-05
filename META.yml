@@ -1,0 +1,17 @@
+---
+abstract: 'Handles prices with tax and discount'
+author:
+  - 'Moritz Onken <onken@netcubed.de>'
+generated_by: 'Dist::Zilla version 1.100160'
+license: bsd
+meta-spec:
+  url: http://module-build.sourceforge.net/META-spec-v1.4.html
+  version: 1.4
+name: Business-Price
+requires:
+  ExtUtils::MakeMaker: 6.11
+  Moose: 0.98
+  MooseX::Types: 0.21
+resources:
+  repository: ~
+version: 1.000_1
